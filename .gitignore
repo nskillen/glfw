@@ -8,6 +8,8 @@ _ReSharper*
 *.vcxproj*
 *.sln
 .vs/
+bin/
+bin-int/
 Win32
 x64
 Debug
